@@ -14,6 +14,9 @@ A curated list of useful web dev tools
     1. [Javascript](#javascript)
     2. [APIs](#apis)
 
+3. [VS Code](#vs-code)
+    1. [Extensions](#extensions) 
+
 ## 1. Material resources
 ### Patterns
 1. [DinPattern](http://www.dinpattern.com/)
@@ -42,3 +45,7 @@ A curated list of useful web dev tools
 
 ### APIs
 1. [public-apis.io](https://public-apis.io/) - free public APIs
+
+## 3. VS Code
+### Extensions
+1. [Restore Terminals](https://marketplace.visualstudio.com/items?itemName=EthanSK.restore-terminals) - have prebuilt terminals when you open a project
