@@ -24,6 +24,7 @@ A curated list of useful web dev tools
 ### Copywriting
 1. [copy.ai](https://www.copy.ai/) - use AI for copywriting
 2. [lipsum.com](https://www.lipsum.com/) - generate dummy "Lorem Ipsum" texts
+3. [deepl.com](https://www.deepl.com/) - accurate translation with machine learning 
 
 ### Gradients
 1. [uigradients.com](https://www.gradients.com/) - copy&paste balanced gradients
