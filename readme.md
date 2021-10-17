@@ -27,7 +27,7 @@ A curated list of useful web dev tools
 3. [deepl.com](https://www.deepl.com/) - accurate translation with machine learning 
 
 ### Gradients
-1. [uigradients.com](https://www.gradients.com/) - copy&paste balanced gradients
+1. [uigradients.com](https://uigradients.com/) - copy&paste balanced gradients
 
 ### Images
 1. [unsplash.com](https://www.unsplash.com/) - free stock images
