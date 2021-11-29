@@ -6,6 +6,7 @@ A curated list of useful web dev tools
 **Table of contents:**
 1. [Material resources](#material-resources)
     1. [Patterns](#patterns)
+    2. [Icons](#icons)
     2. [Copywriting](#copywriting)
     3. [Gradients](#gradients)
     4. [Images](#images)
@@ -20,6 +21,9 @@ A curated list of useful web dev tools
 ## 1. Material resources
 ### Patterns
 1. [DinPattern](http://www.dinpattern.com/)
+
+### Icons
+1. [Iconic](https://iconic.app/)
 
 ### Copywriting
 1. [copy.ai](https://www.copy.ai/) - use AI for copywriting
